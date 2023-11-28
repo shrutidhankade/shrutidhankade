@@ -12,3 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 
 full stack shruti
+
+
+half stack shruti
