@@ -1,4 +1,5 @@
-- 👋 shruti dhankade 
+- 👋 shruti dhankade
+- Full Stack Mern Developer
 ..
 
 <!---
