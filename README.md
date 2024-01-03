@@ -1,7 +1,8 @@
 Shruti Dhankade
-- Full Stack Mern Developer
-- Frontend Developer
-- Backend Developer
+FULL STACK MERN DEVELOPER
+BACKEND DEVELOPER
+FRONTED DEVELOPER
+
 
 
 
