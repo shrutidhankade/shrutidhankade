@@ -1,7 +1,6 @@
 Shruti Dhankade
-.FULL STACK WEB DEVELOPER
-.FRONTEND DEVELOPER
-.BACKED DEVELOPER
+Full Stack Mern Developer
+
 
 
 
