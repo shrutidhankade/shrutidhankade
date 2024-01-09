@@ -1,4 +1,5 @@
-shruti dhankade
+Shruti Dhanakde
+Mern stack developer
 
 
 
