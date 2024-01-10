@@ -1,5 +1,6 @@
-Shruti Dhanakde
-Mern stack developer
+SHRUTI DHANKADE
+   Mern full stack web developer
+
 
 
 
