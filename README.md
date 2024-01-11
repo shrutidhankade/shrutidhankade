@@ -1,5 +1,7 @@
 SHRUTI DHANKADE
-   Mern full stack web developer
+ MERN FULL STACK DEVELOPER
+ BACKEND DEVELOPER
+ 
 
 
 
