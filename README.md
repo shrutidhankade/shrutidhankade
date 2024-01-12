@@ -1,6 +1,6 @@
-SHRUTI DHANKADE
- MERN FULL STACK DEVELOPER
- BACKEND DEVELOPER
+Shruti Dhankade
+mern full stack developer
+
  
 
 
