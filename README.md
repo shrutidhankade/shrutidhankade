@@ -1,6 +1,7 @@
-Shruti Dhankade
-mern full stack developer
 
+Shruti Dhankade
+Mern developer
+backend developer
  
 
 
