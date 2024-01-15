@@ -1,7 +1,5 @@
-
-Shruti Dhankade
-Mern developer
-backend developer
+Shruti Dhanakade
+Full Stack Web Developer
 
  
 
