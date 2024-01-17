@@ -1,10 +1,10 @@
-Shruti Dhanakade
+Shruti Dhankade
 
 
-Full Stack Web Developer
+Full Stack MERN Developer
 
 
-Backend developer
+Backend Developer
 
  
 
