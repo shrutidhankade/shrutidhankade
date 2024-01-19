@@ -1,7 +1,7 @@
 Shruti Dhankade
 
 
-Full Stack Mern Developer
+Full Stack MERN Developer
 
 
 
