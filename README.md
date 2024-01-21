@@ -1,7 +1,6 @@
-SHRUTI DHANKADE
+Shruti Dhankade 
 
-
-Full Stack MERN Developer
+Frontend Developer
 
 
 
