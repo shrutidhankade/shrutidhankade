@@ -1,6 +1,6 @@
 Shruti Dhankade 
 
-Full Stack MERN Develope
+Full Stack MERN Developer
 
 
 
