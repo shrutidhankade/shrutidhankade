@@ -1,6 +1,6 @@
 SHRUTI DHANKADE
 
-Full Stack MERN Developer
+FULL STACK MERN DEVELOPER
 
 Animated Web Designs
 
