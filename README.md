@@ -1,6 +1,5 @@
 shruti dhankade
-
-FULL STACK MERN DEVELOPER
+full stack mern developer
 
 ANIMATED WEB DESIGNS
 
