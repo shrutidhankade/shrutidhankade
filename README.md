@@ -1,4 +1,4 @@
-SHRUTI DHANKADE
+shruti dhankade
 
 FULL STACK MERN DEVELOPER
 
