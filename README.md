@@ -1,4 +1,4 @@
-Shruti Dhankade
+shruti dhankade
 
 full stack developer
 
