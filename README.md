@@ -1,6 +1,6 @@
 shruti dhankade
 
-full stack developer
+full stack web developer
 
 Animated websites
 
