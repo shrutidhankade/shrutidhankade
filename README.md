@@ -1,6 +1,6 @@
 Shruti Dhankade
 
-full stack web developer
+FULL STACK MERN DEVELOPER
 
 Animated websites
 
